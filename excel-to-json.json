@@ -1,0 +1,86 @@
+[
+  {
+    "instruction": "When did Virgin Australia start operating?",
+    "context": "Virgin Australia, the trading name of Virgin Australia Airlines Pty Ltd, is an Australian-based airline. It is the largest airline by fleet size to use the Virgin brand. It commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route. It suddenly found itself as a major airline in Australia's domestic market after the collapse of Ansett Australia in September 2001. The airline has since grown to directly serve 32 cities in Australia, from hubs in Brisbane, Melbourne and Sydney.",
+    "response": "Virgin Australia commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the upcoming earnings stocks?",
+    "context": "The earnings schedule varies whit the stock",
+    "response": " the upcoming earnings stocks are HEICO Corporation (NYSE), Zoom Video Communications, Inc. (NASDAQ), Ryanair Holdings plc (NASDAQ) and Nordson Corporation (NASDAQ) with Post-Market on the 22/05/2023",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the Yahoo Finance potentially undervalued large cap stocks?",
+    "context": "An asset that is undervalued is one that has a market price less than its perceived intrinsic value. Buying undervalued stock in order to take advantage of the gap between intrinsic and market value is known as value investing.",
+    "response": "The Yahoo Finance potentially undervalued large cap stocks arer Ford Motor Company, Itaú Unibanco Holding S.A., Freeport-McMoRan Inc. and United Airlines Holdings, Inc.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the today hot penny stocks?",
+    "context": "Penny stocks, because of their low price, are used to get trading experience for new traders. These stocks are very low priced, and it is almost risk-free to try your luck with penny stock trading. Penny stocks are quite popular with small investors because of their potential for huge gains.",
+    "response": "Today's hot penny stocks are Grab Holdings Limited, Ginkgo Bioworks Holdings, Inc., Opendoor Technologies Inc., Tilray Brands, Inc. and Virgin Galactic Holdings, Inc.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the technology stocks with revenue and earnings growth in excess of 25%?",
+    "context": "Get to know the most promising stocks in the tech industry.",
+    "response": "Technology stocks with revenue and earnings growth in excess of 25% are Block, Inc., Chindata Group Holdings Limited, Unity Software Inc., Lightspeed Commerce Inc. & DLocal Limited",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What is the dividend calendar for today?",
+    "context": "Get to know the dividend calendar for the top ten largest dividend payments today.",
+    "response": "The dividend calendar is he dividend calendarTORM plc Class A Common Stock, Finecobank SpA ADR, Nordson Corporation Common Stock, Karat Packaging Inc. Common Stock and  Southside Bancshares, Inc. Common Stock",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the most trending articles about stocks today ?",
+    "context": "A daily trending articles list about stocks is an interesting insight for rtrading.",
+    "response": "The most trending articlestoday are: \nZIM Integrated Shipping Services will not pay dividend due to Q1 losses\nChevron to buy PDC Energy for $72/share in all-stock deal\nS&P, Dow, Nasdaq trade mixed as debt ceiling talks continue\nSt. Louis Fed's Bullard sees two more rates increases this year\nAtea Pharmaceuticals jumps on $5.75 a share takeover offer from Tang Capital",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the top lowfloat stocks?",
+    "context": "Low float stocks refer to the securities that remain after a company’s stock has been issued to its controlling investors — meaning there are relatively few for the public to buy.",
+    "response": "Top 5 low flota tickers are Seaboard Corp, HMG Courtland Properties, JW Mays Inc, NuZee Inc and Motorsport Games Inc",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the top losers stocks today?",
+    "context": "Due to the variability of the stocks, the top losers list can change unless a real trend is detected",
+    "response": "The top losers stocks list today is Bright Health Group, Inc., Global-e Online Ltd., American Airlines Group Inc., Burford Capital Limited and Micron Technology, Inc.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the top gainers stocks today?",
+    "context": "Due to the variability of the stocks, the top gainers list can change unless a real trend is detected",
+    "response": "The top gainers stocks list today is PDC Energy, Inc., Krystal Biotech, Inc., Immunovant, Inc., P3 Health Partners Inc., GDS Holdings Limited and Zai Lab Limited",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the Yahoo Finance small cap stocks with earnings growth rates better than 25%?",
+    "context": "Small cap stocks with earnings growth rates better than 25% can provide good opportunities for trading.",
+    "response": "The Yahoo Finance small cap stocks with earnings growth rates better than 25% are ContextLogic Inc., BIT Mining Limited, Virgin Galactic Holdings, Inc., Wheels Up Experience Inc. and Opendoor Technologies Inc.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the last ARK orders?",
+    "context": "The portfolio of Cathie Wood can provide a interesting information. These are the last positions, trades, and weight of all companies in her ARKK Innovation ETF.",
+    "response": "19/05/2023\tRKLB\tBuy\n19/05/2023\tTER\tBuy\n19/05/2023\tRKLB\tBuy\n19/05/2023\tDE\tSell\n19/05/2023\tDE\tSell\n19/05/2023\tTER\tBuy",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the most active stocks?",
+    "context": "Intraday trade volume stocks, ordered in descending order, is a good index for trading",
+    "response": "Tesla, Inc.\nNIO Inc.\nPalantir Technologies Inc.\nMicron Technology, Inc.\nAdvanced Micro Devices, Inc.",
+    "category": "closed_qa"
+  },
+  {
+    "instruction": "What are the stocks with earnings growth rates better than 25% and relatively low PE and PEG ratios?",
+    "context": "Stocks with earnings growth rates better than 25% and relatively low PE and PEG ratios provide good opportunities of investment.",
+    "response": "The stocks with earnings growth rates better than 25% and relatively low PE and PEG ratiosare Itaú Unibanco Holding S.A., Exxon Mobil Corporation, Marathon Oil Corporation, Occidental Petroleum Corporation and Huntington Bancshares Incorporated.",
+    "category": "closed_qa"
+  }
+]
